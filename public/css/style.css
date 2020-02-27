@@ -1,0 +1,21 @@
+.imagenes img{
+        width: 120px;
+        max-width: 90px;
+    }
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.carrito{
+	border:solid;
+	height: 200px;
+}
+
+#contenidoCarro{
+	height: 200px;
+}

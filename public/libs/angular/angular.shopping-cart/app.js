@@ -1,0 +1,1 @@
+var shop = angular.module('ShoppingCart', []);

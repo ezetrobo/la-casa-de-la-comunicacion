@@ -1,0 +1,1 @@
+<?php /**PATH D:\SITIOS PHP\casa-de-la-comunicacion\resources\views/layouts/menu.blade.php ENDPATH**/ ?>
